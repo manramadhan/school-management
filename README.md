@@ -32,3 +32,5 @@ Proyek ini adalah Sistem Manajemen Sekolah yang dibangun menggunakan HTML, CSS, 
 ## Kontribusi
 Silakan ajukan masalah atau pull request untuk perbaikan atau peningkatan.
 
+![gambar](screenshot/login.png)
+![gambar](screenshot/register.png)
